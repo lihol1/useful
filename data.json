@@ -1,0 +1,652 @@
+{
+    "products" : [
+            {
+                "id":1,
+                "categoryId": 1,
+                "title": "Смартфон Samsung Galaxy Z Fold 6 12/1Tb, SM-F956B, синий",
+                "features":  
+                    {
+                        "Экран": "AMOLED Dynamic AMOLED 2X QXGA+, 7.6\" (2160x1856)",
+                        "Процессор": "Qualcomm Snapdragon 8 Gen 3 for Galaxy",
+                        "Память": "оперативная 12 ГБ, встроенная 1024 ГБ",
+                        "Аккумулятор": "Li-Pol, 4400 мAч, несъемный",
+                        "Поддержка сетей": "2G/3G/4G (LTE)/5G",                     
+                        "Размеры (ШхВхТ)": "132.6 х 153.5 х 5.6 мм"
+                    }
+                ,
+                "price": 189990,
+                "src": "https://cdn.citilink.ru/NAwj9b6UzrNFyzKMUkARXgQLKrl7JZl_yPf4Hzea0EY/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/96b3420f-d861-4a63-a0e1-42d19a7f352e.jpg"
+            },
+            {
+                "id":2,
+                "categoryId": 1,
+                "title": "Смартфон Samsung Galaxy Z Fold 6 12/512Gb, SM-F956B, розовый",
+                "features":  
+                    {
+                        "Экран": "AMOLED Dynamic AMOLED 2X QXGA+, 7.6\" (2160x1856)",
+                        "Процессор": "Qualcomm Snapdragon 8 Gen 3 for Galaxy",
+                        "Память": "оперативная 12 ГБ, встроенная 512 ГБ",
+                        "Аккумулятор": "Li-Pol, 4400 мAч, несъемный",
+                        "Поддержка сетей": "2G/3G/4G (LTE)/5G",                     
+                        "Размеры (ШхВхТ)": "132.6 х 153.5 х 5.6 мм"
+                    }
+                ,
+                "price": 168990,
+                "src": "https://cdn.citilink.ru/pvsc_xkWBrVqjiu8_0lDxhFP3fOR4ekrJxOGeH0BxMA/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/f362189c-c45c-4caa-b0bf-b1988837d8b7.jpg"
+            },
+            {
+                "id":3,
+                "categoryId": 1,
+                "title": "Смартфон Apple iPhone 16 Pro 512Gb, A3292, белый титан",
+                "features":  
+                    {
+                        "Экран": "OLED Super Retina XDR, 6.3\" (2622x1206)",
+                        "Процессор": "Apple A18 Pro",
+                        "Память": "встроенная 512 ГБ",
+                        "Аккумулятор": "Li-Ion, несъемный",
+                        "Поддержка сетей": "2G/3G/4G (LTE)/5G",                     
+                        "Размеры (ШхВхТ)": "71.5 х 149.6 х 8.25 мм"
+                    }
+                ,
+                "price": 164990,
+                "src": "https://cdn.citilink.ru/WPGvEInBOklHffYnuAFbQEj5LDQ69ObYZZ3uaU6mgag/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/e0b6c169-08ab-4b3b-93b8-d7dc310eff59.jpg"
+            },
+            {
+                "id":4,
+                "categoryId": 1,
+                "title": "Смартфон Samsung Galaxy S24 Ultra 12/1Tb, желтый титан",
+                "features":  
+                    {
+                        "Экран": "AMOLED Dynamic AMOLED 2X QHD+, 6.8\" (3120x1440)",
+                        "Процессор": "Qualcomm Snapdragon 8 Gen 3",
+                        "Память": "оперативная 12 ГБ, встроенная 1024 ГБ",
+                        "Аккумулятор": "Li-Ion, несъемный",
+                        "Поддержка сетей": " 2G/3G/4G (LTE)/5G",                     
+                        "Размеры (ШхВхТ)": "79 х 162.3 х 8.6 мм"
+                    }
+                ,
+                "price": 152990,
+                "src": "https://cdn.citilink.ru/cW63WmzXxFV5ypixC7IQyJgOk76YeSi3P61pXoMsQDs/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/43366bd2-ce1d-4780-9d46-5153b6b1f300.jpg"
+            },
+            {
+                "id":5,
+                "categoryId": 1,
+                "title": "Смартфон INFINIX Hot 50 8/256Gb, X6882, зеленый",
+                "features":  
+                    {
+                        "Экран": "IPS FHD+, 6.78\" (2460x1080)",
+                        "Процессор": "MediaTek Helio G100",
+                        "Память": "оперативная 8 ГБ, встроенная 256 ГБ",
+                        "Аккумулятор": "Li-Pol, 5000 мAч, несъемный",
+                        "Поддержка сетей": "2G/3G/4G (LTE)",                     
+                        "Размеры (ШхВхТ)": "75.63 х 167.88 х 7.7 мм"
+                    }
+                ,
+                "price": 15820,
+                "src": "https://cdn.citilink.ru/vC9drABjtQpsRxxv0JNpOE1vT2SHMFIYoW04y5taf7M/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/0062ced1-8139-4a15-b210-6057c7d70a60.jpg"
+            },
+            {
+                "id":6,
+                "categoryId": 2,
+                "title": "Ноутбук Dell XPS 14 9440 14.5\", 2024, WVA, Intel Core Ultra 7 155H 1.4ГГц, 16-ядерный, 16ГБ LPDDR5x, 512ГБ SSD, Intel Arc, Windows 11 Pro, серебристый [9440-7652]",
+                "features":  
+                    {
+                        "Экран": "14.5\"; 1920х1200; VA",
+                        "Процессор": "MediaTek Helio G100",
+                        "Оперативная память": "16 ГБ, LPDDR5x, 6400 МГц"                        
+                    },
+                "price": 269990,
+                "src": "https://cdn.citilink.ru/6j84rvoxR2vC89v8KcNTMP3a6zdIWWzyueFMluFi0lE/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/f642473d-2ff7-431b-9b72-7c3ff32eb21c.jpg"
+            },
+            {
+                "id":7,
+                "categoryId": 2,
+                "title": "Ноутбук игровой ASUS ProArt PX13 HN7306WV-LX014X 13.3\", 2024, трансформер, OLED, AMD Ryzen AI 9 HX 370 2ГГц, 12-ядерный, 32ГБ LPDDR5x, 1ТБ SSD, NVIDIA GeForce RTX 4060 для ноутбуков - 8 ГБ, Windows 11 Pro, черный [90nb14l1-m00180]",
+                "features":  
+                    {
+                        "Экран": "13.3\"; 2880х1800; OLED",
+                        "Процессор": "AMD Ryzen AI 9 HX 370 2 ГГц (5.1 ГГц, в режиме Turbo)",
+                        "Оперативная память": "32 ГБ, LPDDR5x"                        
+                    },
+                "price": 232990,
+                "src": "https://cdn.citilink.ru/H6sitpsBH2Et5Cj8_Ao9YLIj6LmHvDHcnIgMXLAWQvk/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/4ae65909-a653-4e95-b2d0-d74cd6be1a50.jpg"
+            },
+            {
+                "id":8,
+                "categoryId": 2,
+                "title": "Ноутбук игровой Lenovo Yoga Pro 9 16IMH9 16\", 2024, IPS, Intel Core Ultra 7 155H 1.4ГГц, 16-ядерный, 16ГБ LPDDR5x, 1ТБ SSD, NVIDIA GeForce RTX 4060 для ноутбуков - 8 ГБ, Windows 11 Home, серый [83dn006aru]",
+                "features":  
+                    {
+                        "Экран": "16\"; 3200х2000; IPS",
+                        "Процессор": "Intel Core Ultra 7 155H 1.4 ГГц (4.8 ГГц, в режиме Turbo)",
+                        "Оперативная память": "16 ГБ, LPDDR5x, 7467 МГц"                        
+                    },
+                "price": 226990,
+                "src": "https://cdn.citilink.ru/2e77h8FoF53gw1NmBmpU-0Tu1X9bavprTn6NbUXBC8g/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/62a42a12-cb12-46c8-a1a1-7ac7a6621ef5.jpg"
+            },
+            {
+                "id":9,
+                "categoryId": 2,
+                "title": "Ноутбук ASUS Expertbook B3 B3404CMA-Q50430 14\", IPS, Intel Core Ultra 5 125U 1.3ГГц, 12-ядерный, 16ГБ DDR5, 512ГБ SSD, Intel Graphics, без операционной системы, черный [90nx0711-m00h10]",
+                "features":  
+                    {
+                        "Экран": "14\"; 1920х1200; IPS",
+                        "Процессор": "Intel Core Ultra 5 125U 1.3 ГГц (4.3 ГГц, в режиме Turbo)",
+                        "Оперативная память": "16 ГБ, DDR5, SO-DIMM"                        
+                    },
+                "price": 78990,
+                "src": "https://cdn.citilink.ru/M97WsGeELpLUqusMTiJDDOEGDgp0wdV52ihkaXEacAc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/9ff4f251-977d-4d21-8336-6c050bdfa7c2.jpg"
+            },
+            {
+                "id":10,
+                "categoryId": 2,
+                "title": "Ноутбук Lenovo IdeaPad Slim 3 15ABR8 15.6\", 2023, TN, AMD Ryzen 7 7730U 2ГГц, 8-ядерный, 16ГБ DDR4, 1ТБ SSD, AMD Radeon Graphics, без операционной системы, серый [82xm000ark]",
+                "features":  
+                    {
+                        "Экран": "15.6\"; 1920х1080; TN",
+                        "Процессор": "AMD Ryzen 7 7730U 2 ГГц (4.5 ГГц, в режиме Turbo)",
+                        "Оперативная память": "16 ГБ, DDR4, 3200 МГц"                        
+                    },
+                "price": 53990,
+                "src": "https://cdn.citilink.ru/1r7dijTDgoKb99PPvzS8eHlGV9FD0FGO2fsziA8Mc4g/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/e9eee437-6ceb-40bf-ba28-eae68bc895c5.jpg"
+            },
+            {
+                "id":11,
+                "categoryId": 3,
+                "title": "32\" Монитор MSI Summit MS321UP, 3840x2160, IPS, 2хHDMI, 1хDP, черный [9s6-3da98t-028]",
+                "features":  
+                    {
+                        "Размер экрана": "32\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Контрастность": "статическая 1000:1"                                               
+                    },
+                "price": 72500,
+                "src": "https://cdn.citilink.ru/I_SzxQBUeanAvY4huu7YlTFQ5mWTdkHQd1_M0joJTn8/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/68136a8d-b1c5-465a-83a2-55b1079050fb.jpg"
+            },
+            {
+                "id":12,
+                "categoryId": 3,
+                "title": "27\" Монитор Dell U2723QE, 3840x2160, IPS, 1хHDMI, 2хDP, черный и серебристый [210-bcxk]",
+                "features":  
+                    {
+                        "Размер экрана": "27\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Контрастность": "2000:1"                                              
+                    },
+                "price": 67000,
+                "src": "https://cdn.citilink.ru/esEfeXLZ0Ht5Wd0Tsk2QzjzX3WA828nMVGxRrqZLx6o/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/5cbdd800-5bee-40fd-a21b-a9290da1aa99.jpg"
+            },
+            {
+                "id":13,
+                "categoryId": 3,
+                "title": "31.5\" Монитор LG UltraGear 32GR93U-B, 3840x2160, IPS, 144Гц, 2хHDMI, 1хDP, черный [32gr93u-b.aruz]",
+                "features":  
+                    {
+                        "Размер экрана": "31.5\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Контрастность": "статическая 1000:1"                                              
+                    },
+                "price": 63690,
+                "src": "https://cdn.citilink.ru/VirBHSs3AVauMWy3FxSUVJX2jYHV-N66qo7lJwds7yk/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/4929654a-662d-493a-b952-b0d3959009b8.jpg"
+            },
+            {
+                "id":14,
+                "categoryId": 3,
+                "title": "27\" Монитор Dell P2724DEB, 2560x1440, IPS, 1хHDMI, 1хDP, черный и серебристый",
+                "features":  
+                    {
+                        "Размер экрана": "27\"",
+                        "Разрешение экрана": "2560x1440",
+                        "Контрастность": "статическая 1000:1"                                              
+                    },
+                "price": 57580,
+                "src": "https://cdn.citilink.ru/D3AbwHgrOwfthJwsKwTvFopq1wA0X3r0XRFtsDh6VuI/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/ba77f15d-f78a-4e9b-b11c-c98377c27da3.jpg"
+            },
+            {
+                "id":15,
+                "categoryId": 3,
+                "title": "23.8\" Монитор Philips 242V8LA, 1920x1080, VA, 75Гц, 1хHDMI, 1хDP, черный [242v8la/00]",
+                "features":  
+                    {
+                        "Размер экрана": "23.8\"",
+                        "Разрешение экрана": "1920x1080",
+                        "Контрастность": "статическая 3000:1"                                              
+                    },
+                "price": 11000,
+                "src": "https://cdn.citilink.ru/oRuQI2d8Y0Z5Ca4FoMczpPtSqcj6jbUww2ALC3oF2UM/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/8dfb549b-43ed-4049-9ef1-2c4145d9e443.jpg"
+            },
+            {
+                "id":16,
+                "categoryId": 4,
+                "title": "Проектор Cactus CS-PRO.03WT.Full HD-A, белый, Wi-Fi [cs-pro.03wt.wuxga-a]",
+                "features":  
+                    {
+                        "Диагональ экрана": "49-250\"",
+                        "Разрешение экрана": "1920x1080",
+                        "Контраст": "2300:1"                                              
+                    },
+                "price": 21990,
+                "src": "https://cdn.citilink.ru/Tjz6M0V600Gs0xP8vuVpLY1-B5_7fUfk3hEXHGf3kyc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/8da41035-6dec-4b93-9fe0-684e7e0fc603.jpg"
+            },
+            {
+                "id":17,
+                "categoryId": 4,
+                "title": "Проектор INFOCUS ScreenPlay SP224, белый",
+                "features":  
+                    {
+                        "Диагональ экрана": "22.8-300\"",
+                        "Разрешение экрана": "1024x768",
+                        "Контраст": "20000:1"                                              
+                    },
+                "price": 55650,
+                "src": "https://cdn.citilink.ru/afs0Xm4N9kFCh5g2q4-I6DEqHq6hsM208TjnDoH-pDc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/d17792c2-9f75-4545-92b2-956b1f3692fc.jpg"
+            },
+            {
+                "id":18,
+                "categoryId": 4,
+                "title": "Проектор Acer X1228H, черный [mr.jth11.001]",
+                "features":  
+                    {
+                        "Диагональ экрана": "20-240\"",
+                        "Разрешение экрана": "1024x768",
+                        "Контраст": "30000:1"                                              
+                    },
+                "price": 49500,
+                "src": "https://cdn.citilink.ru/CHT_Bho3vTFUa_IoAUfSUzTfpLymC3YP602urhHBE8k/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/bbb962e1-2550-491c-8948-ab28c18c2157.jpg"
+            },
+            {
+                "id":19,
+                "categoryId": 4,
+                "title": "Проектор YABER K2s, черный, Wi-Fi [ybr_k2s]",
+                "features":  
+                    {
+                        "Диагональ экрана": "40-120\"",
+                        "Разрешение экрана": "1920x1080",
+                        "Контраст": "30000:1"                                              
+                    },
+                "price": 39990,
+                "src": "https://cdn.citilink.ru/WRQD0ff7vr1SbCxkpnzzkt3c6x5F2BuudwvxpaGsTvM/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/3b0c87e8-1a7b-47ec-895f-3db02ed3bd33.jpg"
+            },
+            {
+                "id":20,
+                "categoryId": 4,
+                "title": "Проектор INFOCUS IN1014, белый",
+                "features":  
+                    {
+                        "Диагональ экрана": "30-300\"",
+                        "Разрешение экрана": "1024x768",
+                        "Контраст": "30000:1"                                              
+                    },
+                "price": 43900,
+                "src": "https://cdn.citilink.ru/Kc2qdwCugBF3e3AtfpqTS1QimarWT5Oid6YGFANNUk8/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/15c1f14b-cd98-46cf-a8de-62d9950411f6.jpg"
+            },
+            {
+                "id":21,
+                "categoryId": 5,
+                "title": "75\" Телевизор Sony KD-75X80L, 4K Ultra HD, черный, СМАРТ ТВ, Google TV",
+                "features":  
+                    {
+                        "Диагональ": "75\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Частота обновления": "60 Гц"                                              
+                    },
+                "price": 219790,
+                "src": "https://cdn.citilink.ru/uroD4gmcgkEWHNys2MAFBvw0xQ7oCNjzwRbGjObBJ2o/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/01d81ca4-5e64-4edb-bf5e-b95ab3fcc108.jpg"
+            },
+            {
+                "id":22,
+                "categoryId": 5,
+                "title": "85\" Телевизор Hisense 85U7NQ, QLED, 4K Ultra HD, темно-серый, СМАРТ ТВ, Vidaa",
+                "features":  
+                    {
+                        "Диагональ": "85\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Частота обновления": "120 Гц"                                              
+                    },
+                "price": 229990,
+                "src": "https://cdn.citilink.ru/zODxdcVQ1U1lelxdQOOB-UYtDMuB-9zaGmZFjITQCE0/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/53f7f519-253f-4bb8-a4e9-76c95e24ffa2.jpg"
+            },
+            {
+                "id":23,
+                "categoryId": 5,
+                "title": "55\" Телевизор Samsung QE55QN85DBUXRU, Neo QLED, 4K Ultra HD, черный графит, СМАРТ ТВ, Tizen OS",
+                "features":  
+                    {
+                        "Диагональ": "55\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Частота обновления": "120 Гц"                                              
+                    },
+                "price": 102490,
+                "src": "https://cdn.citilink.ru/XPr0cjjwJqN-1woTVd8Fsyyhg40TpzrvG0q72Kus5yM/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/07b0c4ea-9283-4061-bba3-c6bbaaa05231.jpg"
+            },
+            {
+                "id":24,
+                "categoryId": 5,
+                "title": "86\" Телевизор LG 86UT81006LA.ARUB, 4K Ultra HD, черный, СМАРТ ТВ, WebOS",
+                "features":  
+                    {
+                        "Диагональ": "86\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Частота обновления": "60 Гц"                                              
+                    },
+                "price": 155999,
+                "src": "https://cdn.citilink.ru/hBj7kba2_5iuZmRaqjfY6npaDM1fwSjYUA_sDlLJkxk/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/b6c0892b-f745-40e4-894d-f42afc0b941c.jpg"
+            },
+            {
+                "id":25,
+                "categoryId": 5,
+                "title": "75\" Телевизор LG 75QNED80T6A.ARUG, QNED, 4K Ultra HD, черный титан, СМАРТ ТВ, WebOS",
+                "features":  
+                    {
+                        "Диагональ": "75\"",
+                        "Разрешение экрана": "3840x2160",
+                        "Частота обновления": "60 Гц"                                              
+                    },
+                "price": 124990,
+                "src": "https://cdn.citilink.ru/N3IMhfEhkvqbDIeq_ylA8dJ3zfHyfrJimH0lbhLFtv4/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/ab4109af-321a-4273-84e9-123e1fde49fc.jpg"
+            },
+            {
+                "id":26,
+                "categoryId": 6,
+                "title": "Музыкальный центр Sony SRS-XV900, 100Вт, Bluetooth, USB, черный",
+                "features":  
+                    {
+                        "Cуммарная мощность": "100 Вт",
+                        "Профили Bluetooth": "A2DP/AVRCP/SPP",
+                        "Разъем USB": "есть"
+                    },
+                "price": 106990,
+                "src": "https://cdn.citilink.ru/8xWCznufvtrwiKD1khB3KNbEkcRjXePHZlFqMfVNW8o/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/016dc672-8d25-4d74-ada7-1d31fc63f8e4.jpg"
+            },
+            {
+                "id":27,
+                "categoryId": 6,
+                "title": "Музыкальный центр LG XBOOM XL9T, 1000Вт, с караоке, Bluetooth, USB, черный, красный",
+                "features":  
+                    {
+                        "Cуммарная мощность": "1000 Вт",
+                        "Профили Bluetooth": "AAC/SBC",
+                        "Разъем USB": "есть"
+                    },
+                "price": 77990,
+                "src": "https://cdn.citilink.ru/-iNmnNIKZImnT8322_f7BimyUi__PMKP9p5EnsiAZkY/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/89c925fc-2bec-4b63-86a7-f7bde89279e8.jpg"
+            },
+            {
+                "id":28,
+                "categoryId": 6,
+                "title": "Музыкальный центр Sony MHC-V43D, с караоке, Bluetooth, FM, USB, CD, DVD, черный",
+                "features":  
+                    {
+                        "Cуммарная мощность": "1000 Вт",
+                        "Профили Bluetooth": "LDAC/AAC/A2DP(SINK)/AVRCP/SPP",
+                        "Разъем USB": "есть"
+                    },
+                "price": 42990,
+                "src": "https://cdn.citilink.ru/cWTVlXJ98boIx3DV2gh2n-wESmSYOZMIGy2I9ubzdYw/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/a9e6fce5-4825-4d93-a8a9-d32b2d0ce0c0.jpg"
+            },
+            {
+                "id":29,
+                "categoryId": 6,
+                "title": "Музыкальный центр Sony MHC-V43D, с караоке, Bluetooth, FM, USB, CD, DVD, черный",
+                "features":  
+                    {
+                        "Cуммарная мощность": "160 Вт",
+                        "Профили Bluetooth": "AAC/SBC",
+                        "Разъем USB": "есть"
+                    },
+                "price": 44990,
+                "src": "https://cdn.citilink.ru/QLgkzPe85VSVTVRBzR7fxU61wg2DZTyvAH1rZq8f8TU/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/77eebcbe-3568-4bde-a8c8-b0d70e3393db.jpg"
+            },
+            {
+                "id":30,
+                "categoryId": 6,
+                "title": "Музыкальный центр Sony MHC-V43D, с караоке, Bluetooth, FM, USB, CD, DVD, черный",
+                "features":  
+                    {
+                        "Cуммарная мощность": "120 Вт",
+                        "Профили Bluetooth": "AAC/SBC",
+                        "Разъем USB": "есть"
+                    },
+                "price": 23520,
+                "src": "https://cdn.citilink.ru/F-XORrUVy8yUi4EwqcaHWEv1AdCK73ZuR8QNXkZa4-A/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/c3166f5f-b73e-4aa0-8fae-4bb560569425.jpg"
+            },
+            {
+                "id":31,
+                "categoryId": 7,
+                "title": "Медиаплеер Xiaomi TV Box S, 8ГБ [pfj4167ru]",
+                "features":  
+                    {
+                        "Максимальное разрешение": "3840x2160",
+                        "Тип процессора": "ARM Cortex A55",
+                        "Оперативная память" : "8 ГБ"                       
+                    },
+                "price": 5990,
+                "src": "https://cdn.citilink.ru/VS7TL_K0htl2TGJPzBb1JFt3oIDStQBmxnLPr8eiOgQ/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/59f893c3-b0a4-4524-a7cd-a84f45df5b71.jpg"
+            },
+            {
+                "id":32,
+                "categoryId": 7,
+                "title": "Медиаплеер Xiaomi TV Box S, 8ГБ [pfj4167ru]",
+                "features":  
+                    {
+                        "Максимальное разрешение": "3840x2160",
+                        "Тип процессора": "ARM Cortex A35",
+                        "Встроенная flash память" : "16 ГБ"                       
+                    },
+                "price": 5990,
+                "src": "https://cdn.citilink.ru/VS7TL_K0htl2TGJPzBb1JFt3oIDStQBmxnLPr8eiOgQ/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/59f893c3-b0a4-4524-a7cd-a84f45df5b71.jpg"
+            },
+            {
+                "id":33,
+                "categoryId": 7,
+                "title": "Медиаплеер IconBIT XDS 51, 16ГБ [xlr3049]",
+                "features":  
+                    {
+                        "Максимальное разрешение": "3840x2160",
+                        "Тип процессора": "ARM Cortex A53",
+                        "Встроенная flash память" : "16 ГБ"                       
+                    },
+                "price": 5780,
+                "src": "https://cdn.citilink.ru/dEC-bjbgnHXVBHztskA2W5L3vfN2vALhe78s5IDW7SY/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/bc6d73bc-5db6-40ab-ae34-b16a0a569ae7.jpg"
+            },
+            {
+                "id":34,
+                "categoryId": 7,
+                "title": "Медиаплеер IconBIT XDS 51, 16ГБ [xlr3049]",
+                "features":  
+                    {
+                        "Максимальное разрешение": "1920x1080",
+                        "Тип процессора": "Allwinner H616 ARM QuadCore",
+                        "Встроенная flash память" : "16 ГБ"                       
+                    },
+                "price": 3990,
+                "src": "https://cdn.citilink.ru/eqId8VUuRITsJwhWeiN1sYb9FJo3CR3UGTQX7rQJCjs/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/17eae65b-5e1a-4aa9-9ff3-a75b8bcbd014.jpg"
+            },
+            {
+                "id":35,
+                "categoryId": 7,
+                "title": "Медиаплеер Hyundai H-DMP103, 64ГБ",
+                "features":  
+                    {
+                        "Максимальное разрешение": "3840x2160",
+                        "Тип процессора": "Amlogic S905X4",
+                        "Встроенная flash память" : "64 ГБ"                       
+                    },
+                "price": 6440,
+                "src": "https://cdn.citilink.ru/0OCCHFS0wjTnat2Ffg4ofEdTfsFA6f66agfw76Z9cFM/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/b100a179-5691-48e1-9207-a99dcb20b0c6.jpg"
+            },
+            {
+                "id":36,
+                "categoryId": 8,
+                "title": "Саундбар LG S80TR 5.1.3 360Вт+220Вт черный",
+                "features":  
+                    {
+                        "Суммарная выходная мощность": "300 Вт",
+                        "Выходная мощность сабвуфера": "220 Вт",
+                        "Поддержка Dolby Digital" : "есть"                       
+                    },
+                "price": 71990,
+                "src": "https://cdn.citilink.ru/-rSp7XF_M02RbpVpHMPrUF3bZzgnzvPkd48yYZzdfjM/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/b2dad840-e664-4cd7-a87a-e091e0232f86.jpg"
+            },
+            {
+                "id":37,
+                "categoryId": 8,
+                "title": "Саундбар LG S90TY 5.1.3 570Вт черный",
+                "features":  
+                    {
+                        "Суммарная выходная мощность": "570 Вт",
+                        "Выходная мощность сабвуфера": "220 Вт",
+                        "Поддержка Dolby Digital" : "есть"                       
+                    },
+                "price": 85820,
+                "src": "https://cdn.citilink.ru/DxZVVDL54Aekv38YCO74frTaxt1Dp3MfdnubOtmG300/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/509cecbc-7ec5-4936-a16a-f48aada73ba7.jpg"
+            },
+            {
+                "id":38,
+                "categoryId": 8,
+                "title": "Саундбар LG S80QR 5.1.3 400Вт+220Вт черный",
+                "features":  
+                    {
+                        "Суммарная выходная мощность": "400 Вт",
+                        "Выходная мощность сабвуфера": "220 Вт",
+                        "Поддержка Dolby Digital" : "есть"                       
+                    },
+                "price": 81970,
+                "src": "https://cdn.citilink.ru/03bInUiX4E_6hDBCMgbVkojni6AereJT0p-TyTW7D1I/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/d1a68fe4-1724-430f-b73f-450031d2e706.jpg"
+            },
+            {
+                "id":39,
+                "categoryId": 8,
+                "title": "Саундбар JBL Deep Bass 2.1 100Вт+200Вт черный",
+                "features":  
+                    {
+                        "Суммарная выходная мощность": "100 Вт",
+                        "Выходная мощность сабвуфера": "200 Вт",
+                        "Поддержка Dolby Digital" : "есть"                       
+                    },
+                "price": 36540,
+                "src": "https://cdn.citilink.ru/LLz_m-8dy1StrX_zuFccEqzK7XZ_IaFqjWm5xPd_heQ/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/d36ff3cc-e1b3-4b78-88d4-979866e42c06.jpg"
+            },
+            {
+                "id":40,
+                "categoryId": 8,
+                "title": "Саундбар JBL Deep Bass 2.1 100Вт+200Вт черный",
+                "features":  
+                    {
+                        "Суммарная выходная мощность": "200 Вт",
+                        "Выходная мощность сабвуфера": "160 Вт",
+                        "Поддержка Dolby Digital" : "есть"                       
+                    },
+                "price": 39990,
+                "src": "https://cdn.citilink.ru/R3Wgo0-zbJ5B4zCCWGr6JDbs2T9WP7A77fsaa9rTc0E/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/c1f79f4a-4fb8-40b8-af11-2bca973cfa09.jpg"
+            },
+            {
+                "id":41,
+                "categoryId": 8,
+                "title": "Микрофон Audio-Technica PRO25AX, черный [80001078]",
+                "features":  
+                    {
+                        "Частотный диапазон": "30Гц-120КГц",
+                        "Тип подключения" : "проводной XLR",
+                        "Длина провода": "5 м"                         
+                    },
+                "price": 16990,
+                "src": "https://cdn.citilink.ru/mMJ2To90ZNmz0Kf0BGDNc_6RhljvJwVRUKvBcTLN5kI/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/1898dadb-0b55-46ee-9500-5152c9978f92.jpg"
+            },
+            {
+                "id":42,
+                "categoryId": 8,
+                "title": "Микрофон Razer Seiren V2 X, черный [rz19-04050100-r3m1]",
+                "features":  
+                    {
+                        "Частотный диапазон": "20Гц-20КГц",
+                        "Тип подключения" : "проводной Type-C",
+                        "Длина провода": "1.8 м"                      
+                    },
+                "price": 5999,
+                "src": "https://cdn.citilink.ru/-HvvzoNVNYn8m1wVIvZLmAaY4EGg7oRhL1xmptBKivU/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/b4122098-434f-44bd-95ab-f7d74f38543e.jpg"
+            },
+            {
+                "id":43,
+                "categoryId": 8,
+                "title": "Микрофон Audio-Technica ATR2100x, черный [80001027]",
+                "features":  
+                    {
+                        "Частотный диапазон": "50Гц-15КГц",
+                        "Тип подключения" : "проводной USB",
+                        "Длина провода": "2 м"                      
+                    },
+                "price": 7990,
+                "src": "https://cdn.citilink.ru/llAgYVaqYTFN9i8WZAE7mal7SiGLi-ZGUaq7LNvwEt0/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/3d510283-cd5b-4439-a1f7-d9d91729e86a.jpg"
+            },
+            {
+                "id":44,
+                "categoryId": 8,
+                "title": "Микрофон Oklick SM-400G, черный [1933536]",
+                "features":  
+                    {
+                        "Частотный диапазон": "50Гц-20КГц",
+                        "Тип подключения" : "проводной USB",
+                        "Длина провода": "2 м"                      
+                    },
+                "price": 4959,
+                "src": "https://cdn.citilink.ru/NAQ92KPCc9bEbxPIl4gvn1FFhoqgkXImVYoPP12iJxc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/80f081d3-74b6-4985-85ff-0f2f99abfdbb.jpg"
+            },
+            {
+                "id":45,
+                "categoryId": 8,
+                "title": "Микрофон Defender Pulsar GM303, черный [71662]",
+                "features":  
+                    {
+                        "Частотный диапазон": "100Гц-16КГц",
+                        "Тип подключения" : "проводной USB",
+                        "Длина провода": "1.8 м"                      
+                    },
+                "price": 1949,
+                "src": "https://cdn.citilink.ru/8--xDw9Kk4lXXnPABYEL71C9CZeNEPwlZEx0SQXbR78/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/ab78cb74-266a-4b95-aab6-65cf9c7d1564.jpg"
+            }
+
+    ],
+    
+    "categoreies": [
+        { 
+            "id": 1,
+            "name": "смартфоны"
+           
+        },
+        {
+            "id": 2,
+            "name": "ноутбуки"
+            
+        },
+        {
+            "id": 3,
+            "name": "мониторы"
+            
+        },
+        {
+            "id": 4,
+            "name": "проекторы"            
+        },
+        {
+            "id": 5,
+            "name": "телевизоры"            
+        },
+        {
+            "id": 6,
+            "name": "музыкальные центры"            
+        },
+        {
+            "id": 7,
+            "name": "медиаплееры"            
+        },
+        {
+            "id": 8,
+            "name": "саундбары"            
+        },
+        {
+            "id": 9,
+            "name": "микрофоны"            
+        }
+    ]
+}
