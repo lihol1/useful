@@ -542,7 +542,7 @@
             },
             {
                 "id":41,
-                "categoryId": 8,
+                "categoryId": 9,
                 "title": "Микрофон Audio-Technica PRO25AX, черный [80001078]",
                 "features":  
                     {
@@ -555,7 +555,7 @@
             },
             {
                 "id":42,
-                "categoryId": 8,
+                "categoryId": 9,
                 "title": "Микрофон Razer Seiren V2 X, черный [rz19-04050100-r3m1]",
                 "features":  
                     {
@@ -568,7 +568,7 @@
             },
             {
                 "id":43,
-                "categoryId": 8,
+                "categoryId": 9,
                 "title": "Микрофон Audio-Technica ATR2100x, черный [80001027]",
                 "features":  
                     {
@@ -581,7 +581,7 @@
             },
             {
                 "id":44,
-                "categoryId": 8,
+                "categoryId": 9,
                 "title": "Микрофон Oklick SM-400G, черный [1933536]",
                 "features":  
                     {
@@ -594,7 +594,7 @@
             },
             {
                 "id":45,
-                "categoryId": 8,
+                "categoryId": 9,
                 "title": "Микрофон Defender Pulsar GM303, черный [71662]",
                 "features":  
                     {
@@ -604,6 +604,396 @@
                     },
                 "price": 1949,
                 "src": "https://cdn.citilink.ru/8--xDw9Kk4lXXnPABYEL71C9CZeNEPwlZEx0SQXbR78/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/ab78cb74-266a-4b95-aab6-65cf9c7d1564.jpg"
+            },
+            {
+                "id":46,
+                "categoryId": 10,
+                "title": "12.4\" Планшет Samsung Galaxy Tab S10+ BSM-X826B 12/256 GB 9300+ 5G, 2800 x 1752, 120Гц, Android 14, со стилусом, серый [sm-x826bzarcau]",
+                "features":  
+                    {
+                        "Диагональ экрана": "12.4\"",
+                        "Разрешение экрана" : "2800x1752",
+                        "Частота обновления экрана": "120 Гц"                    
+                    },
+                "price": 105990,
+                "src": "https://cdn.citilink.ru/5xJNbrWYZF9EXAUKsRJJdHK2yjHPOrrJmI4_6TrwHoQ/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/de62eae5-529d-44b8-83e6-6a6ecb70ea30.jpg"
+            },
+            {
+                "id":47,
+                "categoryId": 10,
+                "title": "8.3\" Планшет Apple iPad mini 2024 Wi-Fi + Cellular A2995 8/256 GB A17 Pro 5G, 2266 x 1488, iOS, фиолетовый",
+                "features":  
+                    {
+                        "Диагональ экрана": "8.3\"",
+                        "Разрешение экрана" : "2266x1488",
+                        "Частота обновления экрана": "120 Гц"                    
+                    },
+                "price": 99990,
+                "src": "https://cdn.citilink.ru/3TX1dnhoEQJv4P_RNl-a0SDHcpb-2VGNuUbiNEwEOF4/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/0675762f-8329-443f-8a2e-c105a452c372.jpg"
+            },
+            {
+                "id":48,
+                "categoryId": 10,
+                "title": "11\" Планшет Apple iPad Air 2024 11\" Wi-Fi + Cellular A2903 8/256 GB M2 5G, 2360 x 1640, iOS, сияющая звезда",
+                "features":  
+                    {
+                        "Диагональ экрана": "11\"",
+                        "Разрешение экрана" : "2360x1640",
+                       "Частота обновления экрана": "60 Гц"                    
+                    },
+                "price": 107990,
+                "src": "https://cdn.citilink.ru/tbEE35vA5E_Qhw7B8EKp9RHlbpLiuADmSxFtFw_hYsc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/304441f9-e991-4670-81ad-ba1d17bd1a71.jpg"
+            },
+            {
+                "id":49,
+                "categoryId": 10,
+                "title": "11\" Планшет Samsung Galaxy Tab S9 SM-X716B 12/256 GB 8 Gen 2 5G, 2560 x 1600, 120Гц, Android 13, со стилусом, графит",
+                "features":  
+                    {
+                        "Диагональ экрана": "11\"",
+                        "Разрешение экрана" : "2560x1600",
+                        "Частота обновления экрана": "120 Гц"                      
+                    },
+                "price": 157990,
+                "src": "https://cdn.citilink.ru/tbEE35vA5E_Qhw7B8EKp9RHlbpLiuADmSxFtFw_hYsc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/304441f9-e991-4670-81ad-ba1d17bd1a71.jpg"
+            },
+            {
+                "id":50,
+                "categoryId": 10,
+                "title": "12.4\" Планшет Samsung Galaxy Tab S9 FE+ BSM-X616B 8/128 GB 1380 5G, 2560 x 1600, 90Гц, Android 13, со стилусом, розовый",
+                "features":  
+                    {
+                        "Диагональ экрана": "12.4\"",
+                        "Разрешение экрана" : "2560x1600",
+                        "Частота обновления экрана": "90 Гц"                      
+                    },
+                "price": 59990,
+                "src": "https://cdn.citilink.ru/ZhZFQ-HVODPwA9Tgf6L6k_BLpMtBOEaA2rFHpVVxNqQ/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/ed5d667f-2e0b-4d32-a40c-9b94f4cc87f2.jpg"
+            },
+            {
+                "id":51,
+                "categoryId": 11,
+                "title": "Хаб (разветвитель) D-Link DUB-2325, черный",
+                "features":  
+                    {
+                        "Количество портов USB": "2",
+                        "Питание":  "адаптер/через USB",
+                        "Вес": "210 грамм"                      
+                    },
+                "price": 3470,
+                "src": "https://cdn.citilink.ru/_xtb1IrCWO2xkh-PoUVG4P2XsmVx4tDnW7yAZqGzcX0/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/069dcf4e-597f-4757-95aa-21efb5ae67b2.jpg"
+            },
+            {
+                "id":52,
+                "categoryId": 11,
+                "title": "Хаб (разветвитель) Logitech 993-001951, черный",
+                "features":  
+                    {
+                        "Количество портов USB": "2",
+                        "Питание":  "адаптер",
+                        "Вес": "300 грамм"                      
+                    },
+                "price": 86510,
+                "src": "https://cdn.citilink.ru/KTPY63EItFX0YwlV7eN9j8fYnP865Bj9XFhDsNjB41o/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/e96c2289-9723-4c5c-a4b6-d4ae080cb15d.jpg"
+            },
+            {
+                "id":53,
+                "categoryId": 11,
+                "title": "Хаб (разветвитель) ORIGO OU3350SNPD, черный",
+                "features":  
+                    {
+                        "Количество портов USB": "3",
+                        "Питание":  "через USB Type C",
+                        "Вес": "90 грамм"                      
+                    },
+                "price": 5270,
+                "src": "https://cdn.citilink.ru/AT1pmBzf1xF2no1auK5WeLqRG0vj6g7pbGIOLPtnyHc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/042cbc4f-2a13-4b8b-b8d1-ceec62889d69.jpg"
+            },
+            {
+                "id":54,
+                "categoryId": 11,
+                "title": "Хаб (разветвитель) PALMEXX серый",
+                "features":  
+                    {
+                        "Количество портов USB": "3",
+                        "Питание":  "через USB Type C",
+                        "Вес": "62 грамм"                      
+                    },
+                "price": 3590,
+                "src": "https://cdn.citilink.ru/9e7Yh9Cg5P-U5vbDWvXTbhkNNwfjfTmsqSsdwYHO_Z4/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/bd4c259b-b90c-4262-b6a4-c73f1085586a.jpg"
+            },
+            {
+                "id":55,
+                "categoryId": 11,
+                "title": "Хаб (разветвитель) ORIGO OU3360NPD, серебристый",
+                "features":  
+                    {
+                        "Количество портов USB": "3",
+                        "Питание":  "через USB Type C",
+                        "Вес": "72 грамм"                      
+                    },
+                "price": 3620,
+                "src": "https://cdn.citilink.ru/_FXWkUGaGQGpsb9SHN5yXloKq_Y5mQHdnKfuCpOem5o/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/54406d58-a87c-4f25-a813-8feb1b279214.jpg"
+            },
+            {
+                "id":56,
+                "categoryId": 12,
+                "title": "Материнская плата ASUS ROG STRIX B650E-E GAMING WIFI, SocketAM5, AMD B650, ATX, Ret",
+                "features":  
+                    {
+                        "Сокет": "SocketAM5",
+                        "Чипсет": "AMD B650",
+                        "Тип памяти": "DDR5"                      
+                    },
+                "price": 33800,
+                "src": "https://cdn.citilink.ru/DtVZ77a15TXvHf58JBjwYFvJySuWa2TGFlHbSZD_SWE/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/00093117-b10c-465f-b102-afc28346ae84.jpg"
+            },
+            {
+                "id":57,
+                "categoryId": 12,
+                "title": "Материнская плата ASUS ROG STRIX B650-A GAMING WIFI, SocketAM5, AMD B650, ATX, Ret",
+                "features":  
+                    {
+                        "Сокет": "SocketAM5",
+                        "Чипсет": "AMD B650",
+                        "Тип памяти": "DDR5"                      
+                    },
+                "price": 26000,
+                "src": "https://cdn.citilink.ru/mlf_XKo7j5BbVsOK31bKosf_XbzVvo-WNA8O7wKl7zM/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/ead2dfda-46c7-40d3-b394-b6376cce3ba7.jpg"
+            },
+            {
+                "id":58,
+                "categoryId": 12,
+                "title": "Материнская плата ASUS ROG STRIX B650-A GAMING WIFI, SocketAM5, AMD B650, ATX, Ret",
+                "features":  
+                    {
+                        "Сокет": "LGA 1700",
+                        "Чипсет": "Intel Q670",
+                        "Тип памяти": "DDR5"                      
+                    },
+                "price": 17810,
+                "src": "https://cdn.citilink.ru/BQZyt8mryqWd8gSwu0xwtcDRmQDDdUi97SmjIt2aIWc/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/fc123971-03a7-48b4-93c0-68e115dd63b8.jpg"
+            },
+            {
+                "id":59,
+                "categoryId": 12,
+                "title": "Материнская плата MSI PRO Z790-S WIFI, LGA 1700, Intel Z790, ATX, Ret",
+                "features":  
+                    {
+                        "Сокет": "LGA 1700",
+                        "Чипсет": "Intel Z790",
+                        "Тип памяти": "DDR5"                      
+                    },
+                "price": 19500,
+                "src": "https://cdn.citilink.ru/FjIBPYYOqUqHSCFCp8b7teeqIQl-nLfbjdSDHJVRotQ/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/f65acae5-8946-4974-b99f-74175002fd20.jpg"
+            },
+            {
+                "id":60,
+                "categoryId": 12,
+                "title": "Материнская плата Gigabyte B760 GAMING X DDR4, LGA 1700, Intel B760, ATX, Ret",
+                "features":  
+                    {
+                        "Сокет": "LGA 1700",
+                        "Чипсет": "Intel B760",
+                        "Тип памяти": "DDR4"                      
+                    },
+                "price": 12000,
+                "src": "https://cdn.citilink.ru/6BZwUXERwERevk9PZHeDE-fCyCiyxPlHaFISrHML74k/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/eb477e88-e4f3-4179-aa77-17fb39b5b75f.jpg"
+            },
+            {
+                "id":61,
+                "categoryId": 13,
+                "title": "Видеокарта ASUS NVIDIA GeForce RTX 4060 RTX4060-O8G-LP-BRK 8ГБ GDDR6, Low Profile, OC, Ret",
+                "features":  
+                    {
+                        "Объем видеопамяти" : "8 ГБ",
+                        "Тип видеопамяти": "GDDR6",
+                        "Разрядность шины видеопамяти": "128 bit"                      
+                    },
+                "price": 38240,
+                "src": "https://cdn.citilink.ru/rqmiY2OTGSHenH22_PjLpJ6wj1Oj6gfhcszH4ggGw2Y/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/b810624c-fc8e-4ede-bb09-bad449ecc6ba.jpg"
+            },
+            {
+                "id":62,
+                "categoryId": 13,
+                "title": "Видеокарта Gigabyte NVIDIA GeForce RTX 3060 GV-N3060WF2-12GD 12ГБ Windforce, GDDR6, Ret",
+                "features":  
+                    {
+                        "Объем видеопамяти" : "12 ГБ",
+                        "Тип видеопамяти": "GDDR6",
+                        "Разрядность шины видеопамяти": "192 bit"                      
+                    },
+                "price": 36110,
+                "src": "https://cdn.citilink.ru/CTghrAmIBAcxWcD60RTbVPi9itIoJzQvaLL8DgYjcKg/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/8271a81b-d0c8-493d-bd40-73f06f9d7142.jpg"
+            },
+            {
+                "id":63,
+                "categoryId": 13,
+                "title": "Видеокарта Gigabyte AMD Radeon RX 7600 GV-R76GAMING-8GD 8ГБ Gaming, GDDR6, Ret",
+                "features":  
+                    {
+                        "Объем видеопамяти" : "8 ГБ",
+                        "Тип видеопамяти": "GDDR6",
+                        "Разрядность шины видеопамяти": "128 bit"                      
+                    },
+                "price": 34430,
+                "src": "https://cdn.citilink.ru/HilXsM_iqutDGWvVQmUO_D3AIXkcCP0UrPItjKwHizU/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/00c4ad5c-25da-4b56-b832-0db113afadd5.jpg"
+            },
+            {
+                "id":64,
+                "categoryId": 13,
+                "title": "Видеокарта Palit NVIDIA GeForce RTX 4060 RTX4060 STORMX 8ГБ StormX, GDDR6, Ret",
+                "features":  
+                    {
+                        "Объем видеопамяти" : "8 ГБ",
+                        "Тип видеопамяти": "GDDR6",
+                        "Разрядность шины видеопамяти": "128 bit"                      
+                    },
+                "price": 31070,
+                "src": "https://cdn.citilink.ru/nfWezYAwBJLF5xUGlZdAggVV95SV71by-Eyb-X5NSdw/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/b59b79fa-7ef2-44d3-b1da-3af976381ac6.jpg"
+            },
+            {
+                "id":65,
+                "categoryId": 13,
+                "title": "Видеокарта Palit NVIDIA GeForce RTX 4060 RTX4060 STORMX 8ГБ StormX, GDDR6, Ret",
+                "features":  
+                    {
+                        "Объем видеопамяти" : "6 ГБ",
+                        "Тип видеопамяти": "GDDR6",
+                        "Разрядность шины видеопамяти": "192 bit"                      
+                    },
+                "price": 23500,
+                "src": "https://cdn.citilink.ru/Kao3uxd2E1Bko2Wchf9w-p1xgJu0r784wlv4Smyfa5w/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/a9af075a-cb09-4bbb-8ff3-0dd43316f4bb.jpg"
+            },
+            {
+                "id":66,
+                "categoryId": 14,
+                "title": "Web-камера Defender G-Lens 2590, черный",
+                "features":  
+                    {
+                        "Разрешение видео": "2550х1440 пикселей",
+                        "Запись видео": "720p",
+                        "Угол обзора": "86.1 °"                      
+                    },
+                "price": 3099,
+                "src": "https://cdn.citilink.ru/YdUHpsYEtpSqVmeedl5WkPDWDYdOf5GU-NPR7KsAG4M/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/9f1559bc-ff2d-47b4-920e-1667c3f88f18.jpg"
+            },
+            {
+                "id":67,
+                "categoryId": 14,
+                "title": "Web-камера A4TECH PK-910P, черный",
+                "features":  
+                    {
+                        "Разрешение видео": "1280х720 пикселей",
+                        "Запись видео": "720p",
+                        "Угол обзора": "68 °"                      
+                    },
+                "price": 2170,
+                "src": "https://cdn.citilink.ru/QbO6UxARIkvGumB-sjbfF_FGknN-2GnvKeatPSA1CDw/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/c249bd52-2856-4c7a-b019-9cc18561da91.jpg"
+            },
+            {
+                "id":68,
+                "categoryId": 14,
+                "title": "Web-камера Oklick OK-C013FH, черный",
+                "features":  
+                    {
+                        "Разрешение видео": "1920х1080 пикселей",
+                        "Запись видео": "1080p",
+                        "Угол обзора": "80 °"                      
+                    },
+                "price": 1790,
+                "src": "https://cdn.citilink.ru/yZ8rbVKU2n5DzBS9pvpTht9yoKBX-HlVn0g7WoWWP44/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/4bc4f964-7247-4b9f-ac8e-2325561e0fb2.jpg"
+            },
+            {
+                "id":69,
+                "categoryId": 14,
+                "title": "Web-камера Oklick OK-C013FH, черный",
+                "features":  
+                    {
+                        "Разрешение видео": "640х480 пикселей",
+                        "Запись видео": "640p",
+                        "Угол обзора": "52 °"                      
+                    },
+                "price": 2010,
+                "src": "https://cdn.citilink.ru/sGNnlQkfxwh8LrKqYFeqmEPqWnqskaR_FBG8RU-TSFQ/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/73f5c6b6-9537-440e-9541-df7c20613b01.jpg"
+            },
+            {
+                "id":70,
+                "categoryId": 14,
+                "title": "Web-камера Logitech Conference Cam BCC950, черный",
+                "features":  
+                    {
+                        "Разрешение видео": "1920х1080 пикселей",
+                        "Запись видео": "1080p",
+                        "Угол обзора": "78 °"                      
+                    },
+                "price": 11999,
+                "src": "https://cdn.citilink.ru/R8yzEQOByM60y5yLG_KsluC1EV-w1LWOuk4i60D0OoA/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/b4808462-a796-4270-abad-1f8989e0ee92.jpg"
+            },
+            {
+                "id":71,
+                "categoryId": 15,
+                "title": "Гарнитура игровая Logitech G Pro X 2 Lightspeed, для компьютера, накладные, Bluetooth/3,5 мм, черный",
+                "features":  
+                    {
+                        "Частотный диапазон": "20 Гц - 20 кГц",
+                        "Чувствительность динамика": "87.8 дБ",
+                        "Крепление микрофона": "съемный однонаправленный/гибкий"                     
+                    },
+                "price": 29999,
+                "src": "https://cdn.citilink.ru/08ZTrapfu_CpmYi3DrB6LltRpTAl5MSX4ZkcgWHjmOY/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/0b65b15b-9079-48c3-9d81-c25380609165.jpg"
+            },
+            {
+                "id":72,
+                "categoryId": 15,
+                "title": "Гарнитура игровая Logitech G Pro X 2 Lightspeed, для компьютера, накладные, Bluetooth/3,5 мм, черный",
+                "features":  
+                    {
+                        "Частотный диапазон": "10 Гц - 21 кГц",
+                        "Чувствительность динамика": "100 дБ",
+                        "Крепление микрофона": "гибкий однонаправленный"                     
+                    },
+                "price": 13999,
+                "src": "https://cdn.citilink.ru/iEavxYFtkdM5suMXdnEE7fhUR0j9xZTNy461V5Whxo8/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/094119e9-2480-44cf-9a5b-01decec5de85.jpg"
+            },
+            {
+                "id":73,
+                "categoryId": 15,
+                "title": "Наушники Edifier WH950NB, Bluetooth, мониторные, слоновая кость/золотистый",
+                "features":  
+                    {
+                        "Частотный диапазон": "20 Гц - 40 кГц",
+                        "Чувствительность динамика": "91 дБ",
+                        "Крепление микрофона": "встроенный"                     
+                    },
+                "price": 14770,
+                "src": "https://cdn.citilink.ru/ugDLirfCBuFJZDkxLd4I6kx4bXNag5t99Gqx5sfmCFU/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/e5b50594-8c06-448a-b0ae-a5b6d351260d.jpg"
+            },
+            {
+                "id":74,
+                "categoryId": 15,
+                "title": "Гарнитура игровая Logitech G733 Lightspeed, для компьютера и игровых консолей, накладные, радио, черный",
+                "features":  
+                    {
+                        "Частотный диапазон": "20 Гц - 20 кГц",
+                        "Чувствительность динамика": "85 дБ",
+                        "Крепление микрофона": "съемный однонаправленный"                     
+                    },
+                "price": 12999,
+                "src": "https://cdn.citilink.ru/2Nvp9dNZP3aM8JjSyVnBXe9lZXMt0NLbDHYt2x_ftiA/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/70e0608e-d06b-4bb4-a46f-e9614f71f28a.jpg"
+            },
+            {
+                "id":75,
+                "categoryId": 15,
+                "title": "Гарнитура игровая Logitech G733 Lightspeed, для компьютера и игровых консолей, накладные, радио, черный",
+                "features":  
+                    {
+                        "Частотный диапазон": "20 Гц - 20 кГц",
+                        "Чувствительность динамика": "85 дБ",
+                        "Крепление микрофона": "встроенный"                     
+                    },
+                "price": 7890,
+                "src": "https://cdn.citilink.ru/xJlyov7U6l4fImMHxuwIThB1nWsaeSmUuiuG-uUgRqk/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/d5991a1b-0d48-4c89-b05e-213691c2bc7d.jpg"
             }
 
     ],
@@ -611,13 +1001,11 @@
     "categoreies": [
         { 
             "id": 1,
-            "name": "смартфоны"
-           
+            "name": "смартфоны"           
         },
         {
             "id": 2,
-            "name": "ноутбуки"
-            
+            "name": "ноутбуки"            
         },
         {
             "id": 3,
@@ -647,6 +1035,30 @@
         {
             "id": 9,
             "name": "микрофоны"            
+        },
+        {
+            "id": 10,
+            "name": "планшеты"            
+        },
+        {
+            "id": 11,
+            "name": "хабы"            
+        },
+        {
+            "id": 12,
+            "name": "материнские платы"            
+        },
+        {
+            "id": 13,
+            "name": "видеокарты"            
+        },
+        {
+            "id": 14,
+            "name": "вебкамеры"            
+        },
+        {
+            "id": 15,
+            "name": "гарнитуры"            
         }
     ]
 }
